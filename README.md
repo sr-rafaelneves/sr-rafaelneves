@@ -2,7 +2,7 @@
 
 Sou estudante de programação e estou em busca de realizar uma transição de carreira, já trabalho na área de ti, porém na área de infraestrutura.
 
-Gosto muito da área de programação e como eu costumo dizer, já consigo fazer algumas trelas com a linguagem Java, trabalhando com ela em orientado a objeto, no momento sigo estudando a programação Java com Spring Boot, buscando assim me inserir neste ramo.
+Gosto muito da área de programação e como eu costumo dizer, já consigo fazer algumas trelas com a linguagem Java trabalhando com ela em orientado a objeto, no momento sigo estudando a programação Java com Spring Boot, buscando assim me inserir neste ramo.
 
 ### Redes Sociais
 
