@@ -1,17 +1,16 @@
 ## Olá, Eu sou o Rafael Augusto :v:😁
 
-Sou estudante de programação e estou em busca de realizar uma transição de carreira, já trabalho na área de ti, porém na área de infraestrutura.
+Sou estudante de programação e estou em busca de realizar uma transição de carreira, já trabalho na área de ti, porém na área de infraestrutura e redes de computadores.
 
-Gosto muito da área de programação e como eu costumo dizer, já consigo fazer algumas trelas com a linguagem Java trabalhando com ela em orientado a objeto, no momento sigo estudando a programação Java com Spring Boot, buscando assim me inserir neste ramo.
+Gosto muito da área de programação e já consigo desenvolver com a linguagem de programação Java OO, no momento sigo estudando Java com Spring Boot e estou buscando a primeira experiencia formal para vivenciar a rotina de um dev. 
 
 ### Redes Sociais
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sr-rafaelaugusto/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rafagustosilva/)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sr_rafaelaugusto)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sr.rafaelaugusto@gmail.com)
 
-### Tecnologias já utilizei
+### Tecnologias que já utilizei
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
@@ -28,5 +27,8 @@ Gosto muito da área de programação e como eu costumo dizer, já consigo fazer
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
-</div>
+</div></br>
 
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-rafaelneves&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-rafaelneves&langs_count=6)](https://github.com/sr-rafaelneves/github-readme-stats)
