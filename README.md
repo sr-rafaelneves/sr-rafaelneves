@@ -2,7 +2,7 @@
 
 Sou estudante de programação e estou em busca de realizar uma transição de carreira, já trabalho na área de ti, porém na área de infraestrutura e redes de computadores.
 
-Gosto muito da área de programação e já consigo desenvolver com a linguagem de programação Java OO, no momento sigo estudando Java com Spring Boot e estou buscando a primeira experiencia formal para vivenciar a rotina de um dev. 
+Gosto muito da área de programação e já consigo desenvolver com a linguagem de programação Java, no momento sigo estudando Java com Spring Boot e estou buscando a primeira experiencia formal para vivenciar a rotina de um dev. 
 
 ### Redes Sociais
 
