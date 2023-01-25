@@ -19,7 +19,3 @@ Gosto muito da área de programação e já consigo desenvolver com a linguagem 
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	
 </div></br>
-
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-rafaelneves&show_icons=true&theme=dracula&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-rafaelneves&langs_count=6)](https://github.com/sr-rafaelneves/github-readme-stats)
