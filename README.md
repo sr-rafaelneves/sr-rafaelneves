@@ -4,9 +4,9 @@ Sou programador formado e estou em buscando de realizar uma transição de carre
 
 Atualmente realizo trabalho de consultoria em ti e erp.  
 
-Gosto muito da área de programação, pois é uma área que ja venho investindo tempo e recurso desde 2017, Possuo gosto pessoal para o desenvolvimento de software com Java, possuo experiência com Databases, tenho cursos na área de front end em Web e Mobile.
+Gosto muito da área de programação, pois é uma área que ja venho investindo tempo e recurso desde 2017, Possuo gosto pessoal para o desenvolvimento de software com Java, possuo experiência com Databases e tenho cursos na área de Front End em Web e Mobile.
 
-No momento sigo me expecializando em Java, Spring Boot e Angular para me tornar um programador Full Stack, também continuo em busca da tão sonhada primeira experiencia formal para vivenciar a rotina completa de um dev em ambiente corporativo.
+No momento sigo me expecializando nestas tecnologias, __Java__, __Spring Boot__ e __Angular__ para me tornar um programador __Full Stack de Sucesso haha__ e também continuo em busca da tão sonhada primeira experiencia formal para vivenciar a rotina completa de um dev em ambiente corporativo.
 
 No mas, tenho interesse em algum momento abrir uma fábrica de software e também fornecer consultoria em desenvolvimento de software.  
 
