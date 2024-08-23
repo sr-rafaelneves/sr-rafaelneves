@@ -1,22 +1,22 @@
 ## Olá, Eu sou o Rafael Augusto :v:😁
 
-Sou programador formado, e estou em buscando de realizar uma transição de carreira. Trabalho na área de ti desde o ano de 2012, nas áreas de infraestrutura, administração de servidores, suporte e redes de computadores. 
+Sou programador formado e estou em buscando de realizar uma transição de carreira. Trabalho na área de ti desde o ano de 2012, nas áreas de infraestrutura, administração de servidores, suporte e redes de computadores. 
 
 Atualmente realizo o trabalho de consultoria em TI e ERP.
 
-Gosto muito da área de programação, pois é uma área que ja venho investindo tempo e recurso desde o ano de 2017, Possuo gosto pessoal para o desenvolvimento de software com Java, possuo experiência com Databases e tenho cursos na área de Front End "Web e Mobile".
+Gosto muito da área de programação, pois é uma área que ja venho investindo tempo e recurso desde o ano de 2017, Possuo gosto pessoal para o desenvolvimento de software com Java, tenho experiência com Databases e tenho cursos na área de Front End "Web e Mobile".
 
-No momento sigo me especializando nestas tecnologias, __Java__, __Spring Boot__ e __Angular__ para me tornar um programador __Full Stack de Sucesso haha__ e também continuo em busca da tão sonhada primeira experiencia formal para vivenciar a rotina completa de um dev em ambiente corporativo.
+No momento sigo me especializando nestas tecnologias, _Java, __Spring Boot_ e _Angular_ para me tornar um programador _Full Stack de Sucesso haha_ e também continuo em busca da tão sonhada primeira experiencia formal para vivenciar a rotina completa de um dev em ambiente corporativo.
 
-No mas, tenho interesse em algum momento abrir uma fábrica de software e também fornecer consultoria em desenvolvimento de software.  
+No mas, em algum momento abrirei uma fábrica de software e também fornecerei consultoria em desenvolvimento de software.  
 
-### Se faz sentido para você me seguir, sinta-se a vontade para se conectar e interagir comigo nos links a seguir:
+### Se faz sentido para você me seguir este perfil, sinta-se a vontade para se conectar e interagir comigo nos links a seguir:
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sr-rafaelaugusto/)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sr_rafaelaugusto)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sr.rafaelaugusto@gmail.com)
 
-### Tecnologias que já utilizei
+### Tecnologias que já utilizei 
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
