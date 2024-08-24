@@ -6,9 +6,7 @@ Atualmente realizo o trabalho de consultoria em TI e ERP.
 
 Gosto muito da área de programação, pois é uma área que ja venho investindo tempo e recurso desde o ano de 2017, Possuo gosto pessoal para o desenvolvimento de software com Java, tenho experiência com Databases e tenho cursos na área de Front End "Web e Mobile".
 
-No momento sigo me especializando nestas tecnologias, _Java, __Spring Boot_ e _Angular_ para me tornar um programador _Full Stack de Sucesso haha_ e também continuo em busca da tão sonhada primeira experiencia formal para vivenciar a rotina completa de um dev em ambiente corporativo.
-
-No mas, em algum momento abrirei uma fábrica de software e também fornecerei consultoria em desenvolvimento de software.  
+No momento sigo me especializando nestas tecnologias, **Java**, **Spring Boot** e **Angular** para me tornar um programador **Full Stack de Sucesso haha** e também continuo em busca da tão sonhada primeira experiencia formal para vivenciar a rotina completa de um dev em ambiente corporativo.
 
 ### Se faz sentido para você me seguir este perfil, sinta-se a vontade para se conectar e interagir comigo nos links a seguir:
 
